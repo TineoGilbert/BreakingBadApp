@@ -1,3 +1,22 @@
+# Breaking Bad API 
+
+- Aplicación Web sobre la serie Breaking Bad, utilizando la API de https://breakingbadapi.com/documentation. Consiste en mostrarnos cada uno de los personajes que participan en la serie y ofreciendonos una breve información de cada uno de los personajes. 
+
+- Web application about the Breaking Bad series, using the API of https://breakingbadapi.com/documentation. It consists of showing us each of the characters that participate in the series and offering us a brief information about each of the characters.
+
+## Herramientas Utilizadas / Used Tools
+- React :diamond_shape_with_a_dot_inside:
+
+### Créditos / Credits
+- El 35% de la realización de este proyecto se le acreditan al canal de YouTube de (Traversy Media).
+
+- 35% of the completion of this project is credited to the YouTube channel of (Traversy Media).
+
+
+![](src/img/Breaking1.png)
+
+![](src/img/Breaking2.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
